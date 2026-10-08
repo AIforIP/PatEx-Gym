@@ -1,6 +1,6 @@
-# PatExGym
+# PatEx-Gym
 
-PatExGym is a public Harbor release for USPTO-style patent Office Action agents.
+PatEx-Gym is a public Harbor release for USPTO-style patent Office Action agents.
 
 ## Release contents
 
@@ -26,8 +26,8 @@ the Harbor layout matches the original benchmark format.
 
 ```bash
 git lfs install
-git clone https://github.com/AIforIP/PatExGym.git
-cd PatExGym
+git clone https://github.com/AIforIP/PatEx-Gym.git
+cd PatEx-Gym
 git lfs pull
 zstd -dc base-image/patex-codex-harness-amd64.tar.zst | docker load
 ```
