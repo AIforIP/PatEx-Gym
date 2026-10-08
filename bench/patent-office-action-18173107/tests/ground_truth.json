@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "application_number": "18173107",
+  "source_patent_id": "12486619_App",
+  "round": 1,
+  "oa_type": "Non-Final Rejection",
+  "rejection_types": [
+    "102 - Lack of Novelty"
+  ],
+  "office_action_text": "Notice of Pre-AIA  or AIA  Status\nThe present application, filed on or after March 16, 2013, is being examined under the first inventor to file provisions of the AIA .\nClaim Rejections - 35 USC § 102\nThe following is a quotation of the appropriate paragraphs of 35 U.S.C. 102 that form the basis for the rejections under this section made in this Office action:\nA person shall be entitled to a patent unless –\n(a)(1) the claimed invention was patented, described in a printed publication, or in public use, on sale, or otherwise available to the public before the effective filing date of the claimed invention.\nClaims 1-14 are rejected under 35 U.S.C. 102(a) ((1) as being anticipated by US Patent 6,716,311 (US 311).\tBridging paragraph of col. 5-6 of the US 311 teaches that polymers containing vinylamine units are preferably used in salt-free form. Salt-free aqueous solutions of polymer containing vinylamine units can be prepared, for example, from the salt-containing polymer solutions with the aid of dialysis or ultrafiltration through suitable membranes with cut-offs of, for example, from 1,000 to 500,000, preferably from 10,000 to 300,000, Dalton. Other polymer containing amino and/or ammonium groups can also be obtained in salt-free form with the aid of dialysis or ultrafiltration. In the ultrafiltration through member having the abovementioned cut-offs, fractionation of the polymer resulting in polymer having a relatively narrow molar mass distribution M.sub.w /M.sub.n is achieved in addition to removal of salts which are formed. The fractions of polymers having a narrow distribution which are obtained as retentate in the ultrafiltration.\nRegarding claims 2-4, as noted above the salts are removed through filtration.\nRegarding claim 5, the polymers are made from monomeric salts for which the polymers are made from. See Col. 5, ll.5-61.\nRegarding claim 6, the polymers are made from hydrolysis from polyvinyl formamide. See Col. 5, ll. 5-61.\nRegarding claim 7, it would be inherent that the retentate would have a high concentration of polymers once it is screened through the membrane that filters out such polymer.\nRegarding claim 8 and 11-14, see above noting the claimed Dalton.\nRegarding claim 9, the abstract of US 311 teaches that the polymers can be used as fixing agents in papermaking stock.\nRegarding claim 10, as noted in Col. 5, ll. 5-61 and example 3, high and low molecular weights polymers are used wherein the membrane collects the higher molecular polymer.\nConclusion",
+  "patent_references_gt": [
+    "US6716311B1"
+  ],
+  "paper_references_gt": [],
+  "other_references_gt": []
+}

@@ -1,0 +1,14 @@
+gateway:
+  host: 127.0.0.1
+  port: 8000
+  log_dir: src/gateway/logs
+  raw_dir: src/gateway/raw
+  trajectory_dir: src/gateway/trajectories
+  timeout_seconds: 180
+
+# Example: OpenRouter configuration
+# openai:
+#   base_url: https://openrouter.ai/api
+#   api_key: your-api-key-here
+#   model: deepseek/deepseek-v3.1-terminus
+#   endpoint: "*"

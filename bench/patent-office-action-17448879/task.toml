@@ -1,0 +1,74 @@
+schema_version = "1.4"
+
+[task]
+name = "AIforIP/patent-office-action-17448879"
+version = "1.0.0"
+description = "Generate a USPTO-style Office Action for application 17448879."
+authors = [{ name = "PatEx-Gym" }]
+keywords = ["patent", "office-action", "retrieval", "time-cutoff", "codex"]
+
+[metadata]
+source_task_family = "patent-office-action-common"
+source_sample_task = "patent-office-action-sample"
+application_number = "17448879"
+category = "patent-examination"
+difficulty = "prototype"
+notes = "Public Harbor task with its verifier included."
+
+[agent]
+timeout_sec = 3660.0
+user = "root"
+network_mode = "public"
+
+[verifier]
+timeout_sec = 1200.0
+user = "root"
+network_mode = "public"
+
+[environment]
+network_mode = "public"
+build_timeout_sec = 1200.0
+os = "linux"
+cpus = 4
+memory_mb = 8192
+storage_mb = 20000
+[environment.env]
+INPUT_PATENT_FILE = "/workspace/input/patent.md"
+APPLICATION_DATE = "2021-09-25"
+OPENROUTER_API_KEY = ""
+ES_HOST = "http://patex-search:9200"
+ES_USER = ""
+ES_PASSWORD = ""
+ES_INDEX_PATENTS = "patex-patents-current"
+ES_INDEX_RETRIEVAL_POOL = "patex-patents-current"
+ES_SEMANTIC_INDEX = "patex-patents-current"
+ES_SEMANTIC_VECTOR_FIELD = "bge_m3_dense"
+ES_BGE_M3_EMBED_URL = "http://patex-embeddings:8000/v1/embeddings"
+TOOL_BM25 = "true"
+TOOL_BOOL_SEARCH = "true"
+TOOL_SEMANTIC_SEARCH = "false"
+TOOL_PAPER_BM25 = "true"
+TOOL_PAPER_BOOL_SEARCH = "true"
+TOOL_PAPER_SEMANTIC_SEARCH = "false"
+MAX_INTERACTION_TURNS = "50"
+AGENT_INFERENCE_TIMEOUT = "3600"
+JUDGE_OPENAI_API_KEY = ""
+JUDGE_OPENAI_BASE_URL = "https://openrouter.ai/api/v1"
+JUDGE_MODEL = "deepseek/deepseek-v4-flash-0731"
+JUDGE_TIMEOUT_SECONDS = "300"
+COMPLETION_FORMAT_WEIGHT = "0.10"
+COMPLETION_JUDGE_WEIGHT = "0.50"
+
+PI_SESSION_ENABLED = "false"
+PI_SESSION_DIR = "/logs/pi_sessions"
+
+SEARCH_SIZE_DEFAULT = "5"
+SEARCH_SIZE_MAX = "20"
+BM25_SIZE_DEFAULT = "5"
+BM25_SIZE_MAX = "20"
+BOOL_SIZE_DEFAULT = "5"
+BOOL_SIZE_MAX = "20"
+SEMANTIC_SIZE_DEFAULT = "5"
+SEMANTIC_SIZE_MAX = "20"
+SEMANTIC_NUM_CANDIDATES_DEFAULT = "200"
+SEMANTIC_NUM_CANDIDATES_MAX = "2000"

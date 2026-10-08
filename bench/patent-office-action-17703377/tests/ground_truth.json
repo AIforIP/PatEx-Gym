@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "application_number": "17703377",
+  "source_patent_id": "12335501_App",
+  "round": 1,
+  "oa_type": "Notice of Allowance",
+  "rejection_types": [],
+  "office_action_text": "REASONS FOR ALLOWANCE\n[1]\tThe following is an examiner’s statement of reasons for allowance: The instant invention is related to image transmission and decoding.\n[2]\tPrior art was found for the claims as follows:\nWang et al. (Wang) (US 2014/0086344) discloses the following claim limitations:\nA method implemented by a decoder (30), the method comprising:\nreceiving, by the decoder (30), a bitstream comprising a hypothetical reference decoder (HRD) parameters syntax structure ([0169], HRD parameters are signaled) and one or more layers of coded pictures ([0200], layers are signaled) such that layers are associated with a same number of coded picture buffer (CPB) delivery schedules as specified by the HRD parameters syntax structure ([0169], CpbCnt is derived to be equal to cpb_cnt_minus1); and\ndecoding, by the decoder (30), a picture from one of the layers to obtain a decoded picture (564).\n[3]\tApplicant uniquely claimed a distinct feature in the instant invention, which are not found in the prior art, either singularly or in combination. The feature is “such that all of the layers are associated with a same number of coded picture buffer (CPB) delivery schedules as specified by the HRD parameters syntax structure”.  This feature is not found or suggested in the prior art.\n[4]\tAny comments considered necessary by applicant must be submitted no later than the payment of the issue fee and, to avoid processing delays, should preferably accompany the issue fee.  Such submissions should be clearly labeled “Comments on Statement of Reasons for Allowance.”\n[5]\tClaims 1-20 are allowed.\nConclusion",
+  "patent_references_gt": [
+    "US20140086344A1"
+  ],
+  "paper_references_gt": [],
+  "other_references_gt": []
+}

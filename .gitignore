@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+jobs/
+models/
+training-data/
+.generated/
+*.log
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/
+output/

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "application_number": "18284652",
+  "source_patent_id": "12312893_App",
+  "round": 1,
+  "oa_type": "Non-Final Rejection",
+  "rejection_types": [
+    "112 - Written Description/Enablement"
+  ],
+  "office_action_text": "DETAILED ACTION\nThe present application, filed on or after March 16, 2013, is being examined under the first inventor to file provisions of the AIA .\nClaim Rejections - 35 USC § 112\nThe following is a quotation of 35 U.S.C. 112(b):\n(b)  CONCLUSION.—The specification shall conclude with one or more claims particularly pointing out and distinctly claiming the subject matter which the inventor or a joint inventor regards as the invention.\nThe following is a quotation of 35 U.S.C. 112 (pre-AIA ), second paragraph:\nThe specification shall conclude with one or more claims particularly pointing out and distinctly claiming the subject matter which the applicant regards as his invention.\nClaims 1-6 are rejected under 35 U.S.C. 112(b) or 35 U.S.C. 112 (pre-AIA ), second paragraph, as being indefinite for failing to particularly point out and distinctly claim the subject matter which the inventor or a joint inventor (or for applications subject to pre-AIA  35 U.S.C. 112, the applicant), regards as the invention.\nClaims 1-4 recite “at least on riser”. Claims 1 and 3 recite “a first riser of the at least one riser” and claims 2 and 4 recite “a second riser of the at least one riser”. These recitations are cumbersome and unclear making the metes and bounds of the claims not easily ascertainable. It appears that the claims encompass a plurality of risers and not just a single riser. It is suggested that claims 1 and 3 be written to either disclose a single (first riser) or a plurality of risers. Then claims 2 and 4 can introduce a second riser.\nDependent claims 5-6 do not act to cure the deficiencies of parent claims 3 and 4 and are thereby rejected for at least the same rationale.\nAllowable Subject Matter\nIt should be noted that no art rejections have been made and that if the examiner’s understanding is correct, claims 1-6 would be allowable if amended to overcome the rejections discussed above.\nIt should be noted that if the amendments made to place the application into a condition for allowance are such that refute or change the examiner’s understanding, the examiner reserves the right to make art based rejections.\nThe following is a statement of reasons for the indication of allowable subject matter.\nInstalling risers between offshore drilling rigs or drilling vessels to transport fluid is very well known in the art. Representative art which appears close to the claimed invention includes Pollack et al. (US 20060140726), Mancini et al. (US 20140318791), Daniel et al. (US 20080135258), Gentry et al. (US 4367055), Anderson et al. (US 20030188873), Millheim (US 8202023), Wright et al. (US 9435185), Sanderford et al. (US 20030159581), and Smith et al. (US 20030106714). In general, this art, alone or in combination, discloses various recited features, including but not limited to, a riser, attaching risers, controlling ROV’s to manipulate the riser lines , controlling riser connections, using a winch to manipulate risers, a buoy, and various connection means for connection to the buoys. However, this art fails to disclose or fairly suggest the specifically combined structural relationship between the ROV, the winch, and the buoy as well as the positional relationship between the winch, bout and riser. It could be argued that the individual structure and certain method steps are generally known in the art and thus, could just be assembled to disclose the claimed invention. However, the instant invention clearly and specifically recites structural relationships, steps, and combinations, which require a greater effort than just cobbling together known structures and steps. Further, the claimed structures and steps are sufficiently detailed to be distinguishable when configured as claimed. The examiner can find no motivation to combine or modify the references which would define a fully functioning apparatus and method as claimed in the instant application. Thus, it would not have been within routine skill to glean the specifically combined limitations of the instant invention, from the art, without the benefit of hindsight reasoning or extensive experimentation.\nConclusion",
+  "patent_references_gt": [
+    "US20030106714A1",
+    "US20030159581A1",
+    "US20030188873A1",
+    "US20060140726A1",
+    "US20080135258A1",
+    "US20140318791A1",
+    "US4367055A",
+    "US8202023B2",
+    "US9435185B2"
+  ],
+  "paper_references_gt": [],
+  "other_references_gt": []
+}

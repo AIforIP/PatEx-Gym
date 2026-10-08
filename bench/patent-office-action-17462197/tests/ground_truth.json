@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "application_number": "17462197",
+  "source_patent_id": "12341046_App",
+  "round": 1,
+  "oa_type": "Non-Final Rejection",
+  "rejection_types": [
+    "102 - Lack of Novelty"
+  ],
+  "office_action_text": "DETAILED ACTION\nNotice of Pre-AIA  or AIA  Status\nThe present application, filed on or after March 16, 2013, is being examined under the first inventor to file provisions of the AIA .\nPriority\nReceipt is acknowledged of certified copies of papers required by 37 CFR 1.55.\nInformation Disclosure Statement\nThe information disclosure statement (IDS) submitted on August 31, 2021 and February 2, 2024 is in compliance with the provisions of 37 CFR 1.97.  Accordingly, the information disclosure statement is being considered by the examiner.\nClaim Rejections - 35 USC § 102\nIn the event the determination of the status of the application as subject to AIA  35 U.S.C. 102 and 103 (or as subject to pre-AIA  35 U.S.C. 102 and 103) is incorrect, any correction of the statutory basis (i.e., changing from AIA  to pre-AIA ) for the rejection will not be considered a new ground of rejection if the prior art relied upon, and the rationale supporting the rejection, would be the same under either status.\nThe following is a quotation of the appropriate paragraphs of 35 U.S.C. 102 that form the basis for the rejections under this section made in this Office action:\nA person shall be entitled to a patent unless –\n(a)(1) the claimed invention was patented, described in a printed publication, or in public use, on sale, or otherwise available to the public before the effective filing date of the claimed invention.\nClaims 1,3, and 12 are rejected under 35 U.S.C. 102(a)(1) as being anticipated by JPH11145257A.\nAs to claim 1, JPH11145257A discloses a transfer apparatus, as illustrated in Figures 1-5, comprising a transfer arm (see paragraphs [0001] and [0003] of  JPH11145257A – Google Patents English Translation) configured to transfer a member (wafer 10); an irradiator (15) configured to irradiate light obliquely onto passage area, through which the member passes, when the member is transferred by the transfer arm; a light receiver (2) configured to receive light reflected from the member when the member passes through the passage area; and a controller (3) configured to determine whether the member has passed through the passage area according to whether the light is received by the light receiver (see paragraphs Abstract, [0003],  [0006], and [0008] of  JPH11145257A - Google Patents English Translation).\nWith claim 3, the member is a substrate (wafer 10).\nAs to claim 12, JPH11145257A discloses a transfer method (see paragraphs [0001] and [0003] of  JPH11145257A – Google Patents English Translation), as illustrated in Figures 1-5, comprising irradiating light obliquely onto a passage area (a light emitting unit 15 that emits infrared light – see paragraph [0003]), through which a member (wafer 10) passes, by an irradiator  (15) when the member is transferred by a transfer arm (see paragraph [0003] of  JPH11145257A – Google Patents English Translation); determining whether light reflected from the member is received by a light receiver (2) when the member passes through the passage area; and determining (controller 3) that the member has passed through the passage area when the light reflected from the member is received by the light receiver (see paragraphs Abstract, [0003],  [0006], and [0008] of  JPH11145257A - Google Patents English Translation).\nAllowable Subject Matter\nClaims 2, 4-11, and 13 are objected to as being dependent upon a rejected base claim, but would be allowable if rewritten in independent form including all of the limitations of the base claim and any intervening claims.\nConclusion\nThe prior art made of record and not relied upon is considered pertinent to applicant's disclosure.  Tumer, Eldridge, Hamakawa, Koshimizu, and Frankel are cited as being relevant art, because each prior art discloses a transfer apparatus comprising a transfer arm and a controller.",
+  "patent_references_gt": [
+    "JPH11145257A",
+    "US20070228110A1",
+    "US20100025592A1",
+    "US4496788A",
+    "US5290383A",
+    "US6096496A"
+  ],
+  "paper_references_gt": [],
+  "other_references_gt": []
+}

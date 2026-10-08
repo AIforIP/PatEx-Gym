@@ -1,0 +1,5 @@
+{
+  "description": "Generated-only extraction of Office Action decision and statutory-ground labels.",
+  "system_prompt": "You extract structured labels from a generated USPTO Office Action. You are not given the gold Office Action or hidden labels. Use only the generated document and return JSON only.",
+  "user_prompt_template": "Extract the overall decision and rejection statutes from the generated Office Action below.\n\n## Generated Office Action\n{generated_text}\n\n`decision` must be one of `non_final_rejection`, `final_rejection`, `notice_of_allowance`, `ex_parte_quayle_action`, or `undetermined`. `statutes` may contain only `101`, `102`, `103`, `112`, and `double_patenting`. Include a statute only when the generated document actually applies it as a rejection ground; do not count quotations, background discussion, or response instructions. Use an empty statute list for an allowance or Quayle action.\n\nReturn JSON only:\n\n```json\n{\n  \"decision\": \"non_final_rejection\",\n  \"statutes\": [\"102\", \"103\"],\n  \"evidence\": \"concise evidence from the generated Office Action\"\n}\n```"
+}

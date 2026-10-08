@@ -1,0 +1,707 @@
+{
+  "count": 100,
+  "stratification": "13 tasks each for A-D and 12 each for E-H",
+  "classification_note": "The released task snapshots expose Main CPC but not Main IPC; section labels are the first CPC letter and are reported transparently.",
+  "tasks": [
+    {
+      "task": "patent-office-action-16486862",
+      "application_number": "16486862",
+      "classification_source": "Main CPC",
+      "main_cpc": "A61K47/6849",
+      "section": "A"
+    },
+    {
+      "task": "patent-office-action-16677623",
+      "application_number": "16677623",
+      "classification_source": "Main CPC",
+      "main_cpc": "A61B5/443",
+      "section": "A"
+    },
+    {
+      "task": "patent-office-action-16981320",
+      "application_number": "16981320",
+      "classification_source": "Main CPC",
+      "main_cpc": "A61B5/1106",
+      "section": "A"
+    },
+    {
+      "task": "patent-office-action-17180268",
+      "application_number": "17180268",
+      "classification_source": "Main CPC",
+      "main_cpc": "A61M5/14248",
+      "section": "A"
+    },
+    {
+      "task": "patent-office-action-17224561",
+      "application_number": "17224561",
+      "classification_source": "Main CPC",
+      "main_cpc": "A61B5/0004",
+      "section": "A"
+    },
+    {
+      "task": "patent-office-action-17251092",
+      "application_number": "17251092",
+      "classification_source": "Main CPC",
+      "main_cpc": "A63F13/65",
+      "section": "A"
+    },
+    {
+      "task": "patent-office-action-17275701",
+      "application_number": "17275701",
+      "classification_source": "Main CPC",
+      "main_cpc": "A61B5/082",
+      "section": "A"
+    },
+    {
+      "task": "patent-office-action-17291701",
+      "application_number": "17291701",
+      "classification_source": "Main CPC",
+      "main_cpc": "A61K9/0019",
+      "section": "A"
+    },
+    {
+      "task": "patent-office-action-17336547",
+      "application_number": "17336547",
+      "classification_source": "Main CPC",
+      "main_cpc": "A61B5/02411",
+      "section": "A"
+    },
+    {
+      "task": "patent-office-action-17417570",
+      "application_number": "17417570",
+      "classification_source": "Main CPC",
+      "main_cpc": "A61K39/39533",
+      "section": "A"
+    },
+    {
+      "task": "patent-office-action-17419662",
+      "application_number": "17419662",
+      "classification_source": "Main CPC",
+      "main_cpc": "A61B5/1102",
+      "section": "A"
+    },
+    {
+      "task": "patent-office-action-17436951",
+      "application_number": "17436951",
+      "classification_source": "Main CPC",
+      "main_cpc": "A61P25/16",
+      "section": "A"
+    },
+    {
+      "task": "patent-office-action-17479625",
+      "application_number": "17479625",
+      "classification_source": "Main CPC",
+      "main_cpc": "A61B5/02225",
+      "section": "A"
+    },
+    {
+      "task": "patent-office-action-15480739",
+      "application_number": "15480739",
+      "classification_source": "Main CPC",
+      "main_cpc": "B01F3/0807",
+      "section": "B"
+    },
+    {
+      "task": "patent-office-action-17179838",
+      "application_number": "17179838",
+      "classification_source": "Main CPC",
+      "main_cpc": "B64D9/003",
+      "section": "B"
+    },
+    {
+      "task": "patent-office-action-17429053",
+      "application_number": "17429053",
+      "classification_source": "Main CPC",
+      "main_cpc": "B25J9/1697",
+      "section": "B"
+    },
+    {
+      "task": "patent-office-action-17488528",
+      "application_number": "17488528",
+      "classification_source": "Main CPC",
+      "main_cpc": "B64C13/16",
+      "section": "B"
+    },
+    {
+      "task": "patent-office-action-17505923",
+      "application_number": "17505923",
+      "classification_source": "Main CPC",
+      "main_cpc": "B60L53/31",
+      "section": "B"
+    },
+    {
+      "task": "patent-office-action-17548862",
+      "application_number": "17548862",
+      "classification_source": "Main CPC",
+      "main_cpc": "B23K9/095",
+      "section": "B"
+    },
+    {
+      "task": "patent-office-action-17562816",
+      "application_number": "17562816",
+      "classification_source": "Main CPC",
+      "main_cpc": "B60L53/30",
+      "section": "B"
+    },
+    {
+      "task": "patent-office-action-17631138",
+      "application_number": "17631138",
+      "classification_source": "Main CPC",
+      "main_cpc": "B64D11/0606",
+      "section": "B"
+    },
+    {
+      "task": "patent-office-action-17719110",
+      "application_number": "17719110",
+      "classification_source": "Main CPC",
+      "main_cpc": "B25J9/1689",
+      "section": "B"
+    },
+    {
+      "task": "patent-office-action-17806066",
+      "application_number": "17806066",
+      "classification_source": "Main CPC",
+      "main_cpc": "B60W40/09",
+      "section": "B"
+    },
+    {
+      "task": "patent-office-action-17841153",
+      "application_number": "17841153",
+      "classification_source": "Main CPC",
+      "main_cpc": "B64D37/16",
+      "section": "B"
+    },
+    {
+      "task": "patent-office-action-17869342",
+      "application_number": "17869342",
+      "classification_source": "Main CPC",
+      "main_cpc": "B60W30/08",
+      "section": "B"
+    },
+    {
+      "task": "patent-office-action-17920770",
+      "application_number": "17920770",
+      "classification_source": "Main CPC",
+      "main_cpc": "B60W50/087",
+      "section": "B"
+    },
+    {
+      "task": "patent-office-action-16535565",
+      "application_number": "16535565",
+      "classification_source": "Main CPC",
+      "main_cpc": "C12Q1/6869",
+      "section": "C"
+    },
+    {
+      "task": "patent-office-action-17056632",
+      "application_number": "17056632",
+      "classification_source": "Main CPC",
+      "main_cpc": "C07K16/06",
+      "section": "C"
+    },
+    {
+      "task": "patent-office-action-17124301",
+      "application_number": "17124301",
+      "classification_source": "Main CPC",
+      "main_cpc": "C07K7/08",
+      "section": "C"
+    },
+    {
+      "task": "patent-office-action-17205796",
+      "application_number": "17205796",
+      "classification_source": "Main CPC",
+      "main_cpc": "C12Q1/6886",
+      "section": "C"
+    },
+    {
+      "task": "patent-office-action-17214403",
+      "application_number": "17214403",
+      "classification_source": "Main CPC",
+      "main_cpc": "C12Q1/686",
+      "section": "C"
+    },
+    {
+      "task": "patent-office-action-17362273",
+      "application_number": "17362273",
+      "classification_source": "Main CPC",
+      "main_cpc": "C12Q1/6883",
+      "section": "C"
+    },
+    {
+      "task": "patent-office-action-17369771",
+      "application_number": "17369771",
+      "classification_source": "Main CPC",
+      "main_cpc": "C12Q1/6804",
+      "section": "C"
+    },
+    {
+      "task": "patent-office-action-17399731",
+      "application_number": "17399731",
+      "classification_source": "Main CPC",
+      "main_cpc": "C07K14/005",
+      "section": "C"
+    },
+    {
+      "task": "patent-office-action-17410383",
+      "application_number": "17410383",
+      "classification_source": "Main CPC",
+      "main_cpc": "C12Q1/6886",
+      "section": "C"
+    },
+    {
+      "task": "patent-office-action-17429672",
+      "application_number": "17429672",
+      "classification_source": "Main CPC",
+      "main_cpc": "C07K16/40",
+      "section": "C"
+    },
+    {
+      "task": "patent-office-action-17458995",
+      "application_number": "17458995",
+      "classification_source": "Main CPC",
+      "main_cpc": "C12Q1/6848",
+      "section": "C"
+    },
+    {
+      "task": "patent-office-action-17486864",
+      "application_number": "17486864",
+      "classification_source": "Main CPC",
+      "main_cpc": "C07K16/2866",
+      "section": "C"
+    },
+    {
+      "task": "patent-office-action-17551153",
+      "application_number": "17551153",
+      "classification_source": "Main CPC",
+      "main_cpc": "C12Q1/686",
+      "section": "C"
+    },
+    {
+      "task": "patent-office-action-17883925",
+      "application_number": "17883925",
+      "classification_source": "Main CPC",
+      "main_cpc": "D03D15/283",
+      "section": "D"
+    },
+    {
+      "task": "patent-office-action-17962903",
+      "application_number": "17962903",
+      "classification_source": "Main CPC",
+      "main_cpc": "D06F33/47",
+      "section": "D"
+    },
+    {
+      "task": "patent-office-action-17962926",
+      "application_number": "17962926",
+      "classification_source": "Main CPC",
+      "main_cpc": "D06F34/30",
+      "section": "D"
+    },
+    {
+      "task": "patent-office-action-17969020",
+      "application_number": "17969020",
+      "classification_source": "Main CPC",
+      "main_cpc": "D06F34/18",
+      "section": "D"
+    },
+    {
+      "task": "patent-office-action-17969062",
+      "application_number": "17969062",
+      "classification_source": "Main CPC",
+      "main_cpc": "D06F58/46",
+      "section": "D"
+    },
+    {
+      "task": "patent-office-action-17974127",
+      "application_number": "17974127",
+      "classification_source": "Main CPC",
+      "main_cpc": "D06F34/05",
+      "section": "D"
+    },
+    {
+      "task": "patent-office-action-17975210",
+      "application_number": "17975210",
+      "classification_source": "Main CPC",
+      "main_cpc": "D06F58/26",
+      "section": "D"
+    },
+    {
+      "task": "patent-office-action-17975599",
+      "application_number": "17975599",
+      "classification_source": "Main CPC",
+      "main_cpc": "D07B1/025",
+      "section": "D"
+    },
+    {
+      "task": "patent-office-action-18074803",
+      "application_number": "18074803",
+      "classification_source": "Main CPC",
+      "main_cpc": "D06F37/04",
+      "section": "D"
+    },
+    {
+      "task": "patent-office-action-18079134",
+      "application_number": "18079134",
+      "classification_source": "Main CPC",
+      "main_cpc": "D06F39/14",
+      "section": "D"
+    },
+    {
+      "task": "patent-office-action-18113743",
+      "application_number": "18113743",
+      "classification_source": "Main CPC",
+      "main_cpc": "D21H27/001",
+      "section": "D"
+    },
+    {
+      "task": "patent-office-action-18173107",
+      "application_number": "18173107",
+      "classification_source": "Main CPC",
+      "main_cpc": "D21H17/07",
+      "section": "D"
+    },
+    {
+      "task": "patent-office-action-18229895",
+      "application_number": "18229895",
+      "classification_source": "Main CPC",
+      "main_cpc": "D06F37/304",
+      "section": "D"
+    },
+    {
+      "task": "patent-office-action-18022222",
+      "application_number": "18022222",
+      "classification_source": "Main CPC",
+      "main_cpc": "E04B1/342",
+      "section": "E"
+    },
+    {
+      "task": "patent-office-action-18029683",
+      "application_number": "18029683",
+      "classification_source": "Main CPC",
+      "main_cpc": "E02B15/103",
+      "section": "E"
+    },
+    {
+      "task": "patent-office-action-18041664",
+      "application_number": "18041664",
+      "classification_source": "Main CPC",
+      "main_cpc": "E04B2/7457",
+      "section": "E"
+    },
+    {
+      "task": "patent-office-action-18106865",
+      "application_number": "18106865",
+      "classification_source": "Main CPC",
+      "main_cpc": "E05B9/002",
+      "section": "E"
+    },
+    {
+      "task": "patent-office-action-18106955",
+      "application_number": "18106955",
+      "classification_source": "Main CPC",
+      "main_cpc": "E02D27/50",
+      "section": "E"
+    },
+    {
+      "task": "patent-office-action-18107205",
+      "application_number": "18107205",
+      "classification_source": "Main CPC",
+      "main_cpc": "E04H3/24",
+      "section": "E"
+    },
+    {
+      "task": "patent-office-action-18141326",
+      "application_number": "18141326",
+      "classification_source": "Main CPC",
+      "main_cpc": "E21B43/10",
+      "section": "E"
+    },
+    {
+      "task": "patent-office-action-18165599",
+      "application_number": "18165599",
+      "classification_source": "Main CPC",
+      "main_cpc": "E01F15/146",
+      "section": "E"
+    },
+    {
+      "task": "patent-office-action-18206233",
+      "application_number": "18206233",
+      "classification_source": "Main CPC",
+      "main_cpc": "E21B43/12",
+      "section": "E"
+    },
+    {
+      "task": "patent-office-action-18220251",
+      "application_number": "18220251",
+      "classification_source": "Main CPC",
+      "main_cpc": "E04H15/50",
+      "section": "E"
+    },
+    {
+      "task": "patent-office-action-18240050",
+      "application_number": "18240050",
+      "classification_source": "Main CPC",
+      "main_cpc": "E21B17/07",
+      "section": "E"
+    },
+    {
+      "task": "patent-office-action-18284652",
+      "application_number": "18284652",
+      "classification_source": "Main CPC",
+      "main_cpc": "E21B31/03",
+      "section": "E"
+    },
+    {
+      "task": "patent-office-action-17967274",
+      "application_number": "17967274",
+      "classification_source": "Main CPC",
+      "main_cpc": "F16B2/00",
+      "section": "F"
+    },
+    {
+      "task": "patent-office-action-18007271",
+      "application_number": "18007271",
+      "classification_source": "Main CPC",
+      "main_cpc": "F16F7/12",
+      "section": "F"
+    },
+    {
+      "task": "patent-office-action-18087711",
+      "application_number": "18087711",
+      "classification_source": "Main CPC",
+      "main_cpc": "F15B15/1461",
+      "section": "F"
+    },
+    {
+      "task": "patent-office-action-18236263",
+      "application_number": "18236263",
+      "classification_source": "Main CPC",
+      "main_cpc": "F01D5/282",
+      "section": "F"
+    },
+    {
+      "task": "patent-office-action-18290008",
+      "application_number": "18290008",
+      "classification_source": "Main CPC",
+      "main_cpc": "F24S40/00",
+      "section": "F"
+    },
+    {
+      "task": "patent-office-action-18404185",
+      "application_number": "18404185",
+      "classification_source": "Main CPC",
+      "main_cpc": "F02C7/32",
+      "section": "F"
+    },
+    {
+      "task": "patent-office-action-18407023",
+      "application_number": "18407023",
+      "classification_source": "Main CPC",
+      "main_cpc": "F16C33/76",
+      "section": "F"
+    },
+    {
+      "task": "patent-office-action-18410663",
+      "application_number": "18410663",
+      "classification_source": "Main CPC",
+      "main_cpc": "F02C7/232",
+      "section": "F"
+    },
+    {
+      "task": "patent-office-action-18411853",
+      "application_number": "18411853",
+      "classification_source": "Main CPC",
+      "main_cpc": "F16H57/0427",
+      "section": "F"
+    },
+    {
+      "task": "patent-office-action-18417154",
+      "application_number": "18417154",
+      "classification_source": "Main CPC",
+      "main_cpc": "F41A3/66",
+      "section": "F"
+    },
+    {
+      "task": "patent-office-action-18418885",
+      "application_number": "18418885",
+      "classification_source": "Main CPC",
+      "main_cpc": "F21V19/0025",
+      "section": "F"
+    },
+    {
+      "task": "patent-office-action-18448492",
+      "application_number": "18448492",
+      "classification_source": "Main CPC",
+      "main_cpc": "F02D43/00",
+      "section": "F"
+    },
+    {
+      "task": "patent-office-action-16818351",
+      "application_number": "16818351",
+      "classification_source": "Main CPC",
+      "main_cpc": "G06F3/015",
+      "section": "G"
+    },
+    {
+      "task": "patent-office-action-17032624",
+      "application_number": "17032624",
+      "classification_source": "Main CPC",
+      "main_cpc": "G06F21/56",
+      "section": "G"
+    },
+    {
+      "task": "patent-office-action-17063220",
+      "application_number": "17063220",
+      "classification_source": "Main CPC",
+      "main_cpc": "G06F21/44",
+      "section": "G"
+    },
+    {
+      "task": "patent-office-action-17164650",
+      "application_number": "17164650",
+      "classification_source": "Main CPC",
+      "main_cpc": "G06F8/75",
+      "section": "G"
+    },
+    {
+      "task": "patent-office-action-17181544",
+      "application_number": "17181544",
+      "classification_source": "Main CPC",
+      "main_cpc": "G16H40/63",
+      "section": "G"
+    },
+    {
+      "task": "patent-office-action-17199022",
+      "application_number": "17199022",
+      "classification_source": "Main CPC",
+      "main_cpc": "G06F21/32",
+      "section": "G"
+    },
+    {
+      "task": "patent-office-action-17244980",
+      "application_number": "17244980",
+      "classification_source": "Main CPC",
+      "main_cpc": "G06F21/32",
+      "section": "G"
+    },
+    {
+      "task": "patent-office-action-17360658",
+      "application_number": "17360658",
+      "classification_source": "Main CPC",
+      "main_cpc": "G06F21/32",
+      "section": "G"
+    },
+    {
+      "task": "patent-office-action-17385700",
+      "application_number": "17385700",
+      "classification_source": "Main CPC",
+      "main_cpc": "G06V10/82",
+      "section": "G"
+    },
+    {
+      "task": "patent-office-action-17439467",
+      "application_number": "17439467",
+      "classification_source": "Main CPC",
+      "main_cpc": "G06F21/606",
+      "section": "G"
+    },
+    {
+      "task": "patent-office-action-17448879",
+      "application_number": "17448879",
+      "classification_source": "Main CPC",
+      "main_cpc": "G06F3/04186",
+      "section": "G"
+    },
+    {
+      "task": "patent-office-action-17452400",
+      "application_number": "17452400",
+      "classification_source": "Main CPC",
+      "main_cpc": "G06F11/2094",
+      "section": "G"
+    },
+    {
+      "task": "patent-office-action-17228557",
+      "application_number": "17228557",
+      "classification_source": "Main CPC",
+      "main_cpc": "H01M10/4207",
+      "section": "H"
+    },
+    {
+      "task": "patent-office-action-17258143",
+      "application_number": "17258143",
+      "classification_source": "Main CPC",
+      "main_cpc": "H04L9/3278",
+      "section": "H"
+    },
+    {
+      "task": "patent-office-action-17404672",
+      "application_number": "17404672",
+      "classification_source": "Main CPC",
+      "main_cpc": "H04W4/44",
+      "section": "H"
+    },
+    {
+      "task": "patent-office-action-17462197",
+      "application_number": "17462197",
+      "classification_source": "Main CPC",
+      "main_cpc": "H10P72/32",
+      "section": "H"
+    },
+    {
+      "task": "patent-office-action-17560583",
+      "application_number": "17560583",
+      "classification_source": "Main CPC",
+      "main_cpc": "H01L24/12",
+      "section": "H"
+    },
+    {
+      "task": "patent-office-action-17587164",
+      "application_number": "17587164",
+      "classification_source": "Main CPC",
+      "main_cpc": "H04N19/129",
+      "section": "H"
+    },
+    {
+      "task": "patent-office-action-17650122",
+      "application_number": "17650122",
+      "classification_source": "Main CPC",
+      "main_cpc": "H01L23/528",
+      "section": "H"
+    },
+    {
+      "task": "patent-office-action-17650576",
+      "application_number": "17650576",
+      "classification_source": "Main CPC",
+      "main_cpc": "H04N19/117",
+      "section": "H"
+    },
+    {
+      "task": "patent-office-action-17654167",
+      "application_number": "17654167",
+      "classification_source": "Main CPC",
+      "main_cpc": "H04L9/3271",
+      "section": "H"
+    },
+    {
+      "task": "patent-office-action-17666654",
+      "application_number": "17666654",
+      "classification_source": "Main CPC",
+      "main_cpc": "H10D64/01366",
+      "section": "H"
+    },
+    {
+      "task": "patent-office-action-17703377",
+      "application_number": "17703377",
+      "classification_source": "Main CPC",
+      "main_cpc": "H04N19/00",
+      "section": "H"
+    },
+    {
+      "task": "patent-office-action-17704218",
+      "application_number": "17704218",
+      "classification_source": "Main CPC",
+      "main_cpc": "H01L21/67103",
+      "section": "H"
+    }
+  ]
+}

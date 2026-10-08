@@ -1,0 +1,7 @@
+gateway:
+  host: 127.0.0.1
+  port: 8000
+  log_dir: src/gateway/logs
+  raw_dir: src/gateway/raw
+  trajectory_dir: src/gateway/trajectories
+  timeout_seconds: 180
