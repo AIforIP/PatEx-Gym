@@ -9,7 +9,7 @@ SIAT, Chinese Academy of Sciences · UCAS · Dalian University of Technology · 
 
 ## 🔔 News
 
-- **2026-10-08** — Released 100 PatEx-Bench tasks, per-task verifiers, and the Codex Harness.
+- **2026-10-27** — Released 100 PatEx-Bench tasks, per-task verifiers, and the Codex Harness.
 
 ## 📅 Timeline
 
